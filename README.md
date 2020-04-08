@@ -1,5 +1,13 @@
 # CPE 315 Lab 1 -- Piku
 
+## Ashok Parasa (Ash)
+### Status
+* `Complete`
+### Compilation
+* `gcc -o piku piku.s`
+### Exection
+* `./piku`
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
