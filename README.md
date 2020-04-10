@@ -5,7 +5,7 @@
 * `Complete`
 ### Compilation
 * `gcc -o piku piku.s`
-### Exection
+### Execution
 * `./piku`
 
 ## Things to include in your README
